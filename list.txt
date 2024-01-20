@@ -1,0 +1,11 @@
+name=English; id=en; flag=us.png;
+name=Russian; id=ru; author=Jabka666; mod=2023/4/16; majoronly=0; full=0; size=156056492; compatible=1.1.3; flag=rus.png;
+name=Simplified Chinese; id=zh_Hans; author=ZiYueCommentary; mod=2024/1/6; majoronly=0; full=0; size=40899855; compatible=1.1.3; flag=cn.png;
+name=Japanese; id=ja; author=XingBGames; mod=2022/12/9; majoronly=0; full=0; size=11933847; compatible=1.1; flag=jp.png;
+name=German; id=de; author=Tillikum Soyer; mod=2023/1/17; majoronly=1; full=0; size=0KB; compatible=1.1.3; flag=de.png;
+name=Spanish; id=es; author=kSuzukuOninuts; mod=2023/1/17; majoronly=1; full=0; size=0KB; compatible=1.1.3; flag=es.png;
+name=Traditional Chinese; id=zh_Hant; author=ZiYueCommentary; mod=2023/1/17; majoronly=0; full=0; size=7999813; compatible=1.1.3; flag=cn.png;
+name=Portuguese Brazil; id=pt_BR; author=arithearius; mod=2023/4/21; majoronly=0; full=0; size=9626; compatible=1.1.3; flag=br.png;
+name=French; id=fr; author=EpicDasherFR; mod=2023/8/20; majoronly=0; full=0; size=38970100; compatible=1.1.3; flag=fr.png;
+name=Hungarian; id=hu; author=Nemtommiez; mod=2023/10/27; majoronly=1; full=0; size=0KB; compatible=1.1.3; flag=hu.png;
+name=Polish; id=pl; author=DakingVSGRD; mod=2023/10/28; majoronly=1; full=0; size=0KB; compatible=1.1.3; flag=pl.png;
